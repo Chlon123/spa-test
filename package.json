@@ -1,0 +1,31 @@
+{
+    "name": "patronage-iwona-francka-js-wroclaw",
+    "version": "0.0.1",
+    "author": "Patronage JS Wrocław Iwona Francka",
+    "contributors": [
+        {
+            "name": "Iwona Francka",
+            "email": "iwo@gmail.com"
+        }
+    ],
+    "keywords": [
+        "Patronage"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "engines": {
+        "node": ">=14.0.0",
+        "npm": "please-use-yarn",
+        "yarn": "^1.22"
+    },
+    "devDependencies": {
+        "eslint": "8.31.0",
+        "prettier": "2.8.3",
+        "eslint-plugin-prettier": "4.2.1",
+        "vite": "4.0.4"
+    }
+}
