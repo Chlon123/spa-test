@@ -1,0 +1,17 @@
+:root {
+    --bckg-color: rgb(255, 255, 255);
+    --btn-default-color: rgb(229, 229, 229);
+    --cta-color: rgb(0, 187, 255);
+    --cta-hover-color: rgb(0, 238, 255);
+    --text-color: black;
+    --action-text-color: rgb(1, 223, 131);
+    --base-font-size: 1.2rem;
+    --base-btn-font-size: 1.35rem;
+    --base-font-size-mobile: 1rem;
+    --btn-radius: 16px;
+    --base-margin: 24px;
+
+    --mobile-bp: 768px;
+    --tablet-bp: 1024px;
+    --desktop-bp: 1440px;
+}

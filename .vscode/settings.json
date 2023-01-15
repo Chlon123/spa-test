@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.guides.bracketPairs": "active",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.accessibilitySupport": "off",
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome",
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 70,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
